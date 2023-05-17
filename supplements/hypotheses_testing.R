@@ -1,4 +1,4 @@
-setwd("D:/Documents/thesis R/separated_supplements") # change to the location of the data file
+setwd("C:/path/working_directory") # change to the location of the data file
 getwd()
 
 if(!require(lmerTest)){install.packages("lmerTest")}
