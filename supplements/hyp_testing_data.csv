@@ -1,0 +1,194 @@
+﻿culture,region,subregion,men_dance,women_dance,men_obs,women_obs,location,polygyny,soc_strat,marriage_org,prec_pred,temp_pred
+Mbuti,Africa,Central Africa,1,1,1,1,1,2,0,2,0.782835047,0.81434651
+Mbuti,Africa,Central Africa,1,1,1,1,1,2,0,2,0.782835047,0.81434651
+Mbuti,Africa,Central Africa,1,1,1,1,1,2,0,2,0.782835047,0.81434651
+Mbuti,Africa,Central Africa,1,1,1,1,1,2,0,2,0.782835047,0.81434651
+Mbuti,Africa,Central Africa,1,1,1,1,1,2,0,2,0.782835047,0.81434651
+Mbuti,Africa,Central Africa,N/A,N/A,N/A,N/A,N/A,2,0,2,0.782835047,0.81434651
+Amhara,Africa,Eastern Africa,1,0,1,1,1,0,1,2,0.515022412,0.720775363
+Ganda,Africa,Eastern Africa,1,1,1,1,1,2,1,2,0.605410981,0.775998525
+Ganda,Africa,Eastern Africa,1,1,1,1,1,2,1,2,0.605410981,0.775998525
+Ganda,Africa,Eastern Africa,1,1,1,1,1,2,1,2,0.605410981,0.775998525
+Maasai,Africa,Eastern Africa,1,1,1,1,1,2,N/A,1,0.682096588,0.751177106
+Somali,Africa,Eastern Africa,1,1,1,1,1,2,1,2,0.606547993,0.731168494
+Somali,Africa,Eastern Africa,1,1,1,1,0,2,1,2,0.606547993,0.731168494
+Somali,Africa,Eastern Africa,1,1,1,1,1,2,1,2,0.606547993,0.731168494
+Somali,Africa,Eastern Africa,1,1,1,1,1,2,1,2,0.606547993,0.731168494
+Somali,Africa,Eastern Africa,1,1,1,1,1,2,1,2,0.606547993,0.731168494
+Somali,Africa,Eastern Africa,N/A,N/A,N/A,N/A,N/A,2,1,2,0.606547993,0.731168494
+Somali,Africa,Eastern Africa,1,1,1,1,1,2,1,2,0.606547993,0.731168494
+Somali,Africa,Eastern Africa,1,1,1,1,1,2,1,2,0.606547993,0.731168494
+Somali,Africa,Eastern Africa,N/A,N/A,N/A,N/A,N/A,2,1,2,0.606547993,0.731168494
+Bemba,Africa,Southern Africa,1,1,1,1,1,2,N/A,1,0.715646932,0.747510971
+Lozi,Africa,Southern Africa,1,1,1,1,0,2,2,1,0.525253096,0.721403351
+Lozi,Africa,Southern Africa,N/A,N/A,N/A,N/A,N/A,2,2,1,0.525253096,0.721403351
+Akan,Africa,Western Africa,1,1,1,1,1,2,2,1,0.694845737,0.772128845
+Akan,Africa,Western Africa,1,1,1,1,1,2,2,1,0.694845737,0.772128845
+Hausa,Africa,Western Africa,N/A,N/A,N/A,N/A,N/A,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,0,1,1,1,1,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,1,1,1,1,1,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,N/A,N/A,N/A,N/A,N/A,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,1,1,1,1,1,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,1,1,1,1,1,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,N/A,N/A,N/A,N/A,N/A,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,1,1,1,1,0,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,1,1,1,1,1,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,1,0,N/A,N/A,N/A,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,N/A,N/A,N/A,N/A,N/A,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,0,1,N/A,N/A,N/A,2,2,0,0.625905149,0.731145093
+Hausa,Africa,Western Africa,0,1,0,1,0,2,2,0,0.625905149,0.731145093
+Tiv,Africa,Western Africa,1,1,1,1,0,2,1,2,0.65586863,0.773838202
+Tiv,Africa,Western Africa,N/A,N/A,N/A,N/A,N/A,2,1,2,0.65586863,0.773838202
+Tiv,Africa,Western Africa,1,1,1,1,1,2,1,2,0.65586863,0.773838202
+Tiv,Africa,Western Africa,1,0,1,1,1,2,1,2,0.65586863,0.773838202
+Tiv,Africa,Western Africa,1,0,1,1,1,2,1,2,0.65586863,0.773838202
+Tiv,Africa,Western Africa,1,1,1,1,1,2,1,2,0.65586863,0.773838202
+Tiv,Africa,Western Africa,1,0,1,1,N/A,2,1,2,0.65586863,0.773838202
+Tiv,Africa,Western Africa,1,1,1,1,0,2,1,2,0.65586863,0.773838202
+Tiv,Africa,Western Africa,1,0,1,1,1,2,1,2,0.65586863,0.773838202
+Tiv,Africa,Western Africa,1,1,1,1,1,2,1,2,0.65586863,0.773838202
+Tiv,Africa,Western Africa,1,1,1,1,1,2,1,2,0.65586863,0.773838202
+Tiv,Africa,Western Africa,1,0,1,0,1,2,1,2,0.65586863,0.773838202
+Wolof,Africa,Western Africa,1,1,1,1,0,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,1,1,1,1,1,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,0,1,1,1,1,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,0,1,0,1,0,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,1,1,1,1,1,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,1,1,1,1,1,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,1,1,1,1,N/A,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,0,1,0,1,0,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,N/A,N/A,N/A,N/A,N/A,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,0,1,1,1,N/A,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,0,1,1,1,N/A,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,N/A,N/A,N/A,N/A,N/A,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,0,1,1,1,N/A,2,2,2,0.519248361,0.76730383
+Wolof,Africa,Western Africa,1,1,1,1,1,2,2,2,0.519248361,0.76730383
+Korea,Asia,East Asia,1,0,N/A,N/A,1,0,1,2,0.645534269,0.665446058
+Korea,Asia,East Asia,N/A,N/A,N/A,N/A,N/A,0,1,2,0.645534269,0.665446058
+Korea,Asia,East Asia,1,1,1,1,1,0,1,2,0.645534269,0.665446058
+Korea,Asia,East Asia,1,1,1,1,1,0,1,2,0.645534269,0.665446058
+Korea,Asia,East Asia,1,1,1,1,1,0,1,2,0.645534269,0.665446058
+Andamans,Asia,South Asia,1,1,1,1,N/A,0,0,1,0.590874909,0.806821385
+Andamans,Asia,South Asia,1,1,1,1,1,0,0,1,0.590874909,0.806821385
+Andamans,Asia,South Asia,1,1,1,1,1,0,0,1,0.590874909,0.806821385
+Garo,Asia,South Asia,N/A,N/A,N/A,N/A,N/A,1,1,1,0.503631168,0.676833729
+Garo,Asia,South Asia,N/A,N/A,N/A,N/A,N/A,1,1,1,0.503631168,0.676833729
+Santal,Asia,South Asia,0,1,1,1,N/A,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,N/A,N/A,N/A,N/A,N/A,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,0,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,0,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,0,1,1,1,0,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,0,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,0,1,1,1,N/A,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,0,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,N/A,N/A,N/A,N/A,N/A,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,0,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,0,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,0,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,0,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,N/A,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,N/A,N/A,N/A,N/A,N/A,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,N/A,N/A,N/A,N/A,N/A,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,N/A,N/A,N/A,N/A,N/A,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,N/A,N/A,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,0,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,0,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,0,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,0,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,0,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,N/A,N/A,N/A,N/A,N/A,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,N/A,N/A,N/A,N/A,N/A,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,N/A,N/A,N/A,N/A,N/A,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,1,1,1,2,0.481976659,0.638829195
+Santal,Asia,South Asia,1,1,1,1,N/A,1,1,2,0.481976659,0.638829195
+Central Thai,Asia,Southeast Asia,1,1,1,1,1,N/A,N/A,N/A,N/A,N/A
+Eastern Toraja,Asia,Southeast Asia,1,1,1,1,1,2,N/A,1,0.669679837,0.842534407
+Eastern Toraja,Asia,Southeast Asia,N/A,N/A,N/A,N/A,N/A,2,N/A,1,0.669679837,0.842534407
+Eastern Toraja,Asia,Southeast Asia,1,1,1,1,1,2,N/A,1,0.669679837,0.842534407
+Iban,Asia,Southeast Asia,1,1,1,1,1,0,1,1,0.680512528,0.856066713
+Iban,Asia,Southeast Asia,1,1,1,1,N/A,0,1,1,0.680512528,0.856066713
+Ifugao,Asia,Southeast Asia,0,1,1,1,N/A,1,N/A,1,0.637429684,0.775758585
+Ifugao,Asia,Southeast Asia,N/A,N/A,N/A,N/A,N/A,1,N/A,1,0.637429684,0.775758585
+Ifugao,Asia,Southeast Asia,N/A,N/A,N/A,N/A,N/A,1,N/A,1,0.637429684,0.775758585
+Ifugao,Asia,Southeast Asia,1,0,1,1,1,1,N/A,1,0.637429684,0.775758585
+Ifugao,Asia,Southeast Asia,1,0,1,1,1,1,N/A,1,0.637429684,0.775758585
+Ifugao,Asia,Southeast Asia,1,0,1,1,1,1,N/A,1,0.637429684,0.775758585
+Ifugao,Asia,Southeast Asia,1,1,1,1,1,1,N/A,1,0.637429684,0.775758585
+Ifugao,Asia,Southeast Asia,1,1,1,1,1,1,N/A,1,0.637429684,0.775758585
+Saami,Europe,Scandinavia,1,1,1,1,1,0,N/A,2,0.732288862,0.517274828
+Saami,Europe,Scandinavia,1,1,1,1,1,0,N/A,2,0.732288862,0.517274828
+Saami,Europe,Scandinavia,1,1,1,1,N/A,0,N/A,2,0.732288862,0.517274828
+Saami,Europe,Scandinavia,N/A,N/A,N/A,N/A,N/A,0,N/A,2,0.732288862,0.517274828
+Saami,Europe,Scandinavia,1,1,1,1,1,0,N/A,2,0.732288862,0.517274828
+Saami,Europe,Scandinavia,1,1,1,1,0,0,N/A,2,0.732288862,0.517274828
+Kuna,Middle America and the Caribbean,Central America,1,1,1,1,1,1,N/A,0,0.746782944,0.835580213
+Kuna,Middle America and the Caribbean,Central America,1,0,1,0,1,1,N/A,0,0.746782944,0.835580213
+Kuna,Middle America and the Caribbean,Central America,1,1,1,1,1,1,N/A,0,0.746782944,0.835580213
+Kuna,Middle America and the Caribbean,Central America,1,1,1,1,1,1,N/A,0,0.746782944,0.835580213
+Kuna,Middle America and the Caribbean,Central America,1,1,1,1,1,1,N/A,0,0.746782944,0.835580213
+Kuna,Middle America and the Caribbean,Central America,1,1,1,1,1,1,N/A,0,0.746782944,0.835580213
+Kuna,Middle America and the Caribbean,Central America,N/A,N/A,N/A,N/A,N/A,1,N/A,0,0.746782944,0.835580213
+Kuna,Middle America and the Caribbean,Central America,1,0,1,1,1,1,N/A,0,0.746782944,0.835580213
+Kuna,Middle America and the Caribbean,Central America,1,0,1,1,1,1,N/A,0,0.746782944,0.835580213
+Kurds,Middle East,Middle East,1,1,1,1,1,2,1,0,0.389815932,0.627403655
+Kurds,Middle East,Middle East,1,1,1,1,1,2,1,0,0.389815932,0.627403655
+Kurds,Middle East,Middle East,0,1,1,1,1,2,1,0,0.389815932,0.627403655
+Kurds,Middle East,Middle East,1,1,1,1,1,2,1,0,0.389815932,0.627403655
+Kurds,Middle East,Middle East,1,0,1,0,0,2,1,0,0.389815932,0.627403655
+Kurds,Middle East,Middle East,1,1,1,1,N/A,2,1,0,0.389815932,0.627403655
+Kurds,Middle East,Middle East,1,1,1,1,1,2,1,0,0.389815932,0.627403655
+Kurds,Middle East,Middle East,1,1,1,1,1,2,1,0,0.389815932,0.627403655
+Minnesota Ojibwa,North America,Arctic and Subarctic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,0.659290973,0.508876396
+Eastern Ojibwa,North America,Arctic and Subarctic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,0.681935537,0.548893252
+Round Lake Ojibwa,North America,Arctic and Subarctic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.693739991,0.496960632
+North Albany Ojibwa,North America,Arctic and Subarctic,1,1,1,1,N/A,N/A,N/A,N/A,0.708167454,0.505137856
+Klamath,North America,Plains and Plateau,N/A,N/A,N/A,N/A,N/A,2,N/A,1,0.575514239,0.565542998
+Klamath,North America,Plains and Plateau,N/A,N/A,N/A,N/A,N/A,2,N/A,1,0.575514239,0.565542998
+Klamath,North America,Plains and Plateau,N/A,N/A,N/A,N/A,N/A,2,N/A,1,0.575514239,0.565542998
+Kapauku,Oceania,Melanesia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Trobriands,Oceania,Melanesia,N/A,N/A,N/A,N/A,N/A,2,2,0,0.675558151,0.848562095
+Tikopia,Oceania,Polynesia,N/A,N/A,N/A,N/A,N/A,2,1,1,0.677857147,0.844851678
+Tikopia,Oceania,Polynesia,N/A,N/A,N/A,N/A,N/A,2,1,1,0.677857147,0.844851678
+Tikopia,Oceania,Polynesia,1,1,1,1,1,2,1,1,0.677857147,0.844851678
+Saramaka,South America,Amazon and Orinoco,1,1,1,1,N/A,2,1,N/A,0.733111945,0.729659067
+Saramaka,South America,Amazon and Orinoco,1,1,1,1,1,2,1,N/A,0.733111945,0.729659067
+Saramaka,South America,Amazon and Orinoco,1,1,1,1,1,2,1,N/A,0.733111945,0.729659067
+Tukano,South America,Amazon and Orinoco,1,0,1,1,N/A,N/A,N/A,2,0.80142405,0.809905368
+Tukano,South America,Amazon and Orinoco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,0.80142405,0.809905368
+Tukano,South America,Amazon and Orinoco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,0.80142405,0.809905368
+Aymara,South America,Central Andes,1,1,1,1,1,0,1,0,0.701375009,0.756487465
+Aymara,South America,Central Andes,N/A,N/A,N/A,N/A,N/A,0,1,0,0.701375009,0.756487465
+Aymara,South America,Central Andes,1,1,1,1,1,0,1,0,0.701375009,0.756487465
+Aymara,South America,Central Andes,1,1,1,1,1,0,1,0,0.701375009,0.756487465
+Aymara,South America,Central Andes,1,0,1,0,1,0,1,0,0.701375009,0.756487465
+Aymara,South America,Central Andes,1,1,1,1,N/A,0,1,0,0.701375009,0.756487465
+Aymara,South America,Central Andes,1,1,1,1,N/A,0,1,0,0.701375009,0.756487465
+Aymara,South America,Central Andes,N/A,N/A,N/A,N/A,N/A,0,1,0,0.701375009,0.756487465
+Aymara,South America,Central Andes,1,1,1,1,1,0,1,0,0.701375009,0.756487465
+Aymara,South America,Central Andes,1,1,1,1,1,0,1,0,0.701375009,0.756487465
+Aymara,South America,Central Andes,1,1,1,1,0,0,1,0,0.701375009,0.756487465
+Guaraní,South America,Eastern South America,N/A,N/A,N/A,N/A,N/A,1,N/A,1,0.628936409,0.673141655
+Guaraní,South America,Eastern South America,1,1,1,1,1,1,N/A,1,0.628936409,0.673141655
+Guaraní,South America,Eastern South America,1,1,1,1,1,1,N/A,1,0.628936409,0.673141655
+Guaraní,South America,Eastern South America,1,1,1,1,1,1,N/A,1,0.628936409,0.673141655
